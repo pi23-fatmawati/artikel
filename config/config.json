@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "Fatmawati3",
-    "database": "BE_artikel",
-    "host": "localhost",
+    "username": "freedb_user_sarange",
+    "password": "Q4G$F?a#F7s%qq3",
+    "database": "freedb_sarange_artikel",
+    "host": "sql.freedb.tech",
     "dialect": "mysql"
   },
   "test": {
